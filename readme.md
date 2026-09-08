@@ -70,7 +70,6 @@ A curated list of awesome 3D printing resources.
 - [Robo3d] - Robo R1, R2 and C2 3D printers.
 - [Sharebot] - Innovative, easy to use 3D printers for professional results.
 - [SToN]
-- [Tiertime]
 - [Tronxy]
 - [Trideo3D] - FDM 3D printers focusing on the experience in 3 sizes.
 - [TwoTrees]
@@ -109,7 +108,6 @@ A curated list of awesome 3D printing resources.
 [Robo3d]: https://robo3d.com
 [Sharebot]: https://www.sharebot.it/en/
 [SToN]: https://ston-3d.com/
-[Tiertime]: https://www.tiertime.com/
 [Tronxy]: https://www.tronxy3d.com/
 [Trideo3D]: https://www.trideo3d.com/en
 [TwoTrees]: https://twotrees3d.com/
