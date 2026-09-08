@@ -76,7 +76,6 @@ A curated list of awesome 3D printing resources.
 - [TwoTrees]
 - [Ultimaker]
 - [VoronDesign] - Open source 3D printer designs.
-- [Wanhao]
 
 [3D Systems]: https://www.3dsystems.com
 [Anycubic]: https://www.anycubic.com/
@@ -116,8 +115,6 @@ A curated list of awesome 3D printing resources.
 [TwoTrees]: https://twotrees3d.com/
 [Ultimaker]: https://ultimaker.com
 [VoronDesign]: https://github.com/VoronDesign
-[Wanhao]: https://wanhao.store
-
 
 ## CAD Tools
 
@@ -189,12 +186,10 @@ A curated list of awesome 3D printing resources.
 
 ## AMS / Filament Changer
 
-- [AMS] - Bambu Lab Automatic Material System for multi-color printing.
 - [BoxTurtle] - Open source multi-color filament system.
 - [CFS] - Creality Filament System for multi-color printing.
 - [EnragedRabbitProject] - Multi-color addon for Voron 3D printers.
 
-[AMS]: https://bambulab.com/en/ams
 [BoxTurtle]: https://github.com/ArmoredTurtle/BoxTurtle
 [CFS]: https://store.creality.com/products/cfs-creality-filament-system
 [EnragedRabbitProject]: https://github.com/EtteGit/EnragedRabbitProject
